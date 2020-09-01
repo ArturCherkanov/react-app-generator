@@ -1,0 +1,31 @@
+{
+  "name": "generator-rstructure",
+  "version": "0.1.0",
+  "description": "Structure for react app",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^1.0.0",
+    "yeoman-welcome": "^1.0.1",
+    "yosay": "^2.0.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturCherkanov/react-structure.git"
+  },
+  "author": "Artur Cherkanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturCherkanov/react-structure/issues"
+  },
+  "homepage": "https://github.com/ArturCherkanov/react-structure#readme"
+}
